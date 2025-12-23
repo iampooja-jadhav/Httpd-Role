@@ -8,6 +8,9 @@ This repository showcases a complete end-to-end Ansible Role project where secur
 
 The role is developed on an Ansible server, pushed to GitHub using GitHub Personal Access Token, and successfully published to Ansible Galaxy using Galaxy API token. This project reflects real-world DevOps security and automation practices.
 
+# Architecture
+![](./Img/arch.webp)
+
 ## Technologies Used
 
 - Ansible
